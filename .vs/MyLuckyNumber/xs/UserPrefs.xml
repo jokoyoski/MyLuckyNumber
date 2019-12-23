@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E44F7043-5439-4469-9CED-527A5F1078EC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyLuckyNumber/Resources/layout/activity_main.xml">
+    <Files>
+      <File FileName="MyLuckyNumber/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="MyLuckyNumber/Resources/layout/activity_main.xml" Line="26" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyLuckyNumber" expanded="True">
+            <Node name="MyLuckyNumber" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True">
+                  <Node name="activity_main.xml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyLuckyNumber AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
